@@ -1,1 +1,3 @@
-# JuniperMIST_with_Feels
+# Juniper MIST with Feels
+
+Not a MIST opportunity
